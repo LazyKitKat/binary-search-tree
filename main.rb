@@ -9,3 +9,7 @@ p my_tree.find(325)
 puts "\n\n"
 my_tree.insert(2)
 my_tree.pretty_print
+
+puts "\n\n"
+my_tree.delete(4)
+my_tree.pretty_print
