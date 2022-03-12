@@ -1,6 +1,6 @@
 # binary-search-tree
 
-This project was made for [The Odin Project](www.theodinproject.org) Ruby course. 
+This project was made for [The Odin Project](www.theodinproject.com) Ruby course. 
 
 # Credits
 
